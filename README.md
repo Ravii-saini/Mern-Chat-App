@@ -25,4 +25,8 @@ To use the MERN Chat App:
 - **Node.js**: For running server-side JavaScript.
 - **Socket.io**: For enabling real-time messaging functionality.
 
+ if you want to visit the site, you can go to link given below
+
+([https://chat-app-jzgr.onrender.com])
+
 Please feel free to explore the application and provide feedback.
